@@ -37,19 +37,19 @@ pip install -r requirements.txt
 
 ```bash
 # Explanation Generation
-python Scripts/generation.py --model qwen3-8b --output Results/generation/
+python Scripts/generation.py 
 
 # Relative Ranking
-python Scripts/ranking.py --model qwen3-8b --output Results/ranking/
+python Scripts/ranking.py 
 
 # Independent Scoring
-python Scripts/scoring.py --model qwen3-8b --output Results/scoring/
+python Scripts/scoring.py
 
 # Multi-Anomaly Detection
-python Scripts/anomaly_detection.py --model qwen3-8b --output Results/anomaly/
+python Scripts/anomaly_detection.py 
 ```
 
-All experiments are run zero-shot with structured JSON output. Refer to individual scripts for full argument options.
+All experiments are run zero-shot with structured JSON output. Refer to individual scripts for argument options and parameters.
 
 ---
 
