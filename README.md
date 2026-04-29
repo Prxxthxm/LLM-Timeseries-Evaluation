@@ -1,7 +1,5 @@
 # LLM-Timeseries-Evaluation
 
-*Anonymous submission — under double-blind review at COLM 2026.*
-
 Reference-free evaluation of time-series explanations using an LLM-as-a-Judge framework with structured rubric-based scoring.
 
 ---
