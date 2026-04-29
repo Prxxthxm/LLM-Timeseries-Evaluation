@@ -1,4 +1,4 @@
-# LLM-Timeseries-Evaluation
+# TSQueryBench
 
 Reference-free evaluation of time-series explanations using an LLM-as-a-Judge framework with structured rubric-based scoring.
 
