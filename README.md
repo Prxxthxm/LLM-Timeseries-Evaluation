@@ -6,7 +6,7 @@ Reference-free evaluation of time-series explanations using an LLM-as-a-Judge fr
 
 ## Overview
 
-This repository contains the code, data, and results for the paper **"LLM-as-a-Judge for Time Series Explanations"**. We study large language models as both generators and evaluators of time-series explanations in a reference-free setting, using a rubric-guided prompting framework that conditions directly on raw numerical data.
+This repository contains the code, data, and results for **TSQueryBench**. We study large language models as both generators and evaluators of time-series explanations in a reference-free setting, using a rubric-guided prompting framework that conditions directly on raw numerical data.
 
 ---
 
